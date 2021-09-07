@@ -1,2 +1,2 @@
 # apt-apps
-Collection of scripts for install application on apt based OS
+Collection of scripts for installing applications on apt based OS
